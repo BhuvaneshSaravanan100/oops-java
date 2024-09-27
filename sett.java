@@ -14,7 +14,7 @@ public class sett {
 		System.out.println(a);
 		
 		
-		System.out.println("-----------------------------------------------------------------HASHSET");
+		System.out.println("----------------------------------------------------------------------------------------------------------   HASHSET");
 		
 		LinkedHashSet  ab= new LinkedHashSet ();
 	    ab.add(100);    
@@ -25,7 +25,7 @@ public class sett {
 		System.out.println(ab);
 		
 		
-		System.out.println("-----------------------------------------------------------------LINKED HASHSET ");
+		System.out.println("------------------------------------------------------------------------------------------------------------LINKED HASHSET ");
 		
 		TreeSet  ac= new TreeSet ();
 	    ac.add(10);    
@@ -36,28 +36,28 @@ public class sett {
 		System.out.println(ac);
 		
 		
-
-		System.out.println("-----------------------------------------------------------------TREE SET ");
+   
+		System.out.println("-------------------------------------------------------------------------------------------------------------TREE SET ");
 		
 		
 		for(Object b:a) {
 			System.out.println(b);
 		}
 		
-		System.out.println("-----------------------------------------------------------------HASH SET ITERRATE ");
+		System.out.println("----------------------------------------------------------------------------------------------------------HASH SET ITERRATE ");
 		
 		for(Object b:ab) {
 			System.out.println(b);
 		}
 		
-		System.out.println("-----------------------------------------------------------------LINKED HASH SET ITERRATE ");
+		System.out.println("--------------------------------------------------------------------------------------------------------LINKED HASH SET ITERRATE ");
 		
 		for(Object b:ac) {
 			System.out.println(b);
 		}
 		
 		
-		System.out.println("-----------------------------------------------------------------TREE MAP SET ITERRATE ");
+		System.out.println("--------------------------------------------------------------------------------------------------------TREE MAP SET ITERRATE ");
 		
 		
 		
